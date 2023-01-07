@@ -15,4 +15,9 @@ if keyboard_check(vk_right){
     x+=1
 }
 
+if flor = 3{
+	room_goto_next()
+}
+	
+
 
