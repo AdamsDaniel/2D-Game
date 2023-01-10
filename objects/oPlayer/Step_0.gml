@@ -19,5 +19,12 @@ if flor = 3{
 	room_goto_next()
 }
 	
-
+if keyboard_check(vk_anykey)
+{
+    sprite_index = sPlayerCorre
+}
+else
+{
+    sprite_index = sPlayer
+}
 

@@ -3,7 +3,9 @@
   "resourceVersion": "1.6",
   "name": "2D Game",
   "resources": [
+    {"id":{"name":"AnimationCurve1","path":"animcurves/AnimationCurve1/AnimationCurve1.yy",},"order":20,},
     {"id":{"name":"sSerra","path":"sprites/sSerra/sSerra.yy",},"order":16,},
+    {"id":{"name":"sPlayerCorre","path":"sprites/sPlayerCorre/sPlayerCorre.yy",},"order":21,},
     {"id":{"name":"oSerra","path":"objects/oSerra/oSerra.yy",},"order":19,},
     {"id":{"name":"oFlor","path":"objects/oFlor/oFlor.yy",},"order":18,},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},"order":17,},
